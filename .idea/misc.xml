@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/katar/Downloads/SplashScreenAndroid12-master/SplashScreenAndroid12-master/gradle/caches/transforms-3/c2d6ad2f2e2a35d9921220a81a0e9e62/transformed/core-1.8.0/res/layout/custom_dialog.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/drawable/circle.xml" value="0.3145" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.3145" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/drawable/ic_baseline_hexagon_24.xml" value="0.374" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/drawable/ic_baseline_rectangle_24.xml" value="0.374" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/drawable/ic_group1.xml" value="0.3145" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/drawable/ic_group4.xml" value="0.3145" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/drawable/ic_iconotif.xml" value="0.374" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/drawable/ic_next_arrow.xml" value="0.3145" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/drawable/ic_prep.xml" value="0.3145" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/drawable/ic_slider.xml" value="0.3145" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/drawable/ic_slider2.xml" value="0.3145" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/drawable/ic_subtitle_per_month.xml" value="0.3145" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/drawable/ic_subtitle_raise.xml" value="0.3145" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/drawable/ic_tabbar_icon.xml" value="0.3145" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/drawable/ic_tabprofile_icon.xml" value="0.3145" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/drawable/ic_title2.xml" value="0.3145" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/drawable/ic_up.xml" value="0.3735" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/drawable/rectangle.xml" value="0.374" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/drawable/rounded_corner.xml" value="0.3145" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/activity_home.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/activity_settings.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/activity_splash.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/activity_test.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/content_home.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/content_home2.xml" value="0.3734375" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/content_item.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/custom_dialog_fragment.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/dialog_error.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/exam_item.xml" value="0.3734375" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/faq_item.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/fragment_account.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/fragment_content.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/fragment_course_contents.xml" value="0.3734375" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/fragment_exam.xml" value="0.3734375" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/fragment_first.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/fragment_first_splash.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/fragment_folder.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/fragment_forth_onboarding.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/fragment_home.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/fragment_home_container.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/fragment_intro1.xml" value="0.22" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/fragment_intro2.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/fragment_lesson.xml" value="0.5170454545454546" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/fragment_overview.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/fragment_prep.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/fragment_profile.xml" value="0.3734375" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/fragment_profile_container.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/fragment_quiz.xml" value="0.5505208333333333" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/fragment_second.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/fragment_second_splash.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/fragment_settings.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/fragment_third_onboarding.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/overview_item_binding.xml" value="0.284375" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/quiz_item.xml" value="0.284375" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/search_header_layout.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/topic_content_item.xml" value="0.5505208333333333" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/topic_item.xml" value="0.3734375" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/layout/unit_item.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/menu/bottom_menu.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/katar/Petersonsproject/app/src/main/res/menu/nav_menu.xml" value="0.31145833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
